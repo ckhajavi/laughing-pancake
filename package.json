@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "emptygif": "^0.1.1",
     "express": "^4.13.4"
   }
 }
